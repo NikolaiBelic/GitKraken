@@ -1,0 +1,7 @@
+git clone https://github.com/.../
+
+git add test.txt
+
+git commit -m "This is a test"
+
+git push -u origin master
